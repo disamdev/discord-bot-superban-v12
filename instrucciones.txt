@@ -1,5 +1,5 @@
 Antes de iniciar el bot tienes tienes que instalar los paquetes necesarios, si usas replit al darle run te los instala solos y 
-si usas un editor local como Visual Studio COde probablemente tendrás que instalarlos tú. Antes de instalar los demás en vez de poner
+si usas un editor local como Visual Studio Code probablemente tendrás que instalarlos tú. Antes de instalar los demás en vez de poner
 simplemente (npm install discord.js) pon npm install discord.js@12.5.3 para que te instale la versión 12 y no la última, con la 12 funciona el bot
 
 En el index.js al final pon tu token
